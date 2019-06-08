@@ -35,3 +35,9 @@ https://github.com/OnlyDeLtA/Sharecode-Fixer
 <strong>Screens :</strong></br>
 
 <img src="https://i.imgur.com/Vny4GXy.png">
+
+Written in AutoIT. </br>
+
+_ClipPutHTML From : https://sites.google.com/site/ascend4ntscode/clipputhtml</br>
+GUIHotkey From : https://www.autoitscript.com/forum/topic/107965-guihotkeyau3/</br>
+
