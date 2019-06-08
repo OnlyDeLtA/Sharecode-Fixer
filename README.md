@@ -31,3 +31,7 @@ https://github.com/OnlyDeLtA/Sharecode-Fixer
 2. Program Will Give Balloon Notification as "Generator Mode Is On".</br>
 3. Now Copy Link & Press Hotkey to Generate Sharecode.</br>
 4. Sharecoded Link Will Be Copied to your Clipboard. Paste It On your Post.</br>
+
+<strong>Screens :</strong></br>
+
+<img src="https://i.imgur.com/Vny4GXy.png">
