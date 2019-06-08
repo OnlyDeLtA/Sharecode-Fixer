@@ -41,3 +41,5 @@ Written in AutoIT. </br>
 _ClipPutHTML From : https://sites.google.com/site/ascend4ntscode/clipputhtml</br>
 GUIHotkey From : https://www.autoitscript.com/forum/topic/107965-guihotkeyau3/</br>
 
+Thanks to (Feedback/Testing) : -=[4lfre1re]=-, GlacialMan, m345, teodz1984, Togijak, Wilenty, HandyPAF.
+
